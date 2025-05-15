@@ -5,13 +5,10 @@
     </p>
     <p align="center">
 <p align="center">
+
+
 ---------
 
-### **`INSTALA TERMUX NUEVA VERSIÓN`**
-<a
-href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="https://qu.ax/finc.jpg" height="125px"></a>
-
-<div align=>
 
 #### **<img src="https://i.imgur.com/n1zo2wL.gif" width="30" height="30"/> VIDA💪 `Instalación manual por termux`**
 > copie y peguen en termux uno por uno 
