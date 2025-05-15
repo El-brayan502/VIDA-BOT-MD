@@ -26,11 +26,11 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/El-brayan502/NagiBotV2.git
+git clone https://github.com/El-brayan502/VIDA-BOT-MD.git
 ```
 
 ```bash
-cd NagiBotV2
+cd VIDA-BOT-MD
 ```
 
 ```bash
