@@ -18,9 +18,9 @@
 
 
 
-<h1 align="center">ＮＡＧＩＢＯＴＶ２</p>
+<h1 align="center">VIDABOT</p>
 <p>
-        <img src= "https://qu.ax/sVNZv.jpg">
+        <img src= "https://files.catbox.moe/vzsoi2.jpg">
     </p>
     <p align="center">
 <p align="center">
