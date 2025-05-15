@@ -5,8 +5,6 @@
     </p>
     <p align="center">
 <p align="center">
-<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐬𝐍𝐚𝐠𝐢𝐁𝐨𝐭 | 🔥𝘽𝙧𝙖𝙮𝙖𝙣𝟯𝟯𝟬🔥 | 𝐁𝐫𝐚𝐲𝐚𝐧 𝐲 𝐕𝐚𝐥𝐞𝐫𝐢𝐚💓-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
-  
 ---------
 
 ### **`INSTALA TERMUX NUEVA VERSIÓN`**
@@ -15,7 +13,7 @@ href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="htt
 
 <div align=>
 
-#### **<img src="https://i.imgur.com/n1zo2wL.gif" width="30" height="30"/> NagiBot🐬 `Instalación manual por termux`**
+#### **<img src="https://i.imgur.com/n1zo2wL.gif" width="30" height="30"/> VIDA💪 `Instalación manual por termux`**
 > copie y peguen en termux uno por uno 
 ```bash
 termux-setup-storage
