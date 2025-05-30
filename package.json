@@ -1,5 +1,5 @@
 {
-"name": "VIDABOT X BRAYAN",
+"name": "VIDABOT X PANDA",
 "version": "2.2.0",
 "description": "Super bot de WhatsApp 2.0",
 "main": "index.js",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/El-brayan502/NagiBotV2",
+"homepage": "https://github.com/El-brayan502/VIDA-BOT-MD",
 "author": {
 "name": "Brayan330"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/El-brayan502/NagiBotV2.git"
+"url": "git+https://github.com/El-brayan502/VIDA-BOT-MD.git"
 },
 "bugs": {
-"url": "https://github.com/El-brayan502/NagiBotV2/issues"
+"url": "https://github.com/El-brayan502/VIDA-BOT-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
