@@ -72,7 +72,7 @@ ${info}
         texto += `┃ ${flag} @${number}\n`;
     }
 
-    texto += `╰══⬣\n✨ *Powered by Kirito-Bot* ⚔️`;
+    texto += `╰══⬣\n✨ *Powered by vida-bot* ⚔️`;
 
     conn.sendMessage(m.chat, {
         text: texto.trim(),
