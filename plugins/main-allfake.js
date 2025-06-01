@@ -38,8 +38,8 @@ global.listo = ' 🐼 ＡＱＵＩ ＴＩＥＮＥＳ ＭＥＮ'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/ZdsZt.jpg')
 
 //Ids channel
-global.idchannel = '120363312092804854@newsletter'
-global.canalIdM = ["120363312092804854@newsletter"]
+global.idchannel = '120363417082311845@newsletter'
+global.canalIdM = ["120363417082311845@newsletter"]
 global.canalNombreM = ["𝐕𝐈𝐃𝐀𝐁𝐎𝐓𝟐.𝟎"]
 global.channelRD = await getRandomChannel()
 
