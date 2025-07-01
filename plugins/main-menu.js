@@ -171,7 +171,7 @@ await conn.sendMessage(m.chat, {
     externalAdReply: { 
       title: `${titulowm2}`,
       body: `${dev}`,
-      thumbnailUrl: `https://qu.ax/jDLsx.jpg`,
+      thumbnailUrl: `https://qu.ax/ADCJM.jpg`,
       sourceUrl: `https://www.instagram.com/xrljose?igsh=MWt0a2EyMXk2aXdpag==`,
       mediaType: 1,
       renderLargerThumbnail: true
