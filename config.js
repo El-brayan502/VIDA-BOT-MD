@@ -68,8 +68,8 @@ global.catalogo = fs.readFileSync('./Private.png');
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = 'Yenes'
-global.banner = 'https://qu.ax/ZdsZt.jpg'
-global.avatar = 'https://qu.ax/ZdsZt.jpg'
+global.banner = 'https://qu.ax/ADCJM.jpg'
+global.avatar = 'https://qu.ax/ADCJM.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
