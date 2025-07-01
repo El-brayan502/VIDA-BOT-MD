@@ -28,25 +28,25 @@ let tags = {
 };
 
 const defaultMenu = {
-  before: `Hola %name ${ucapan()} , soy 𝚅𝙸𝙳𝙰𝙱𝙾𝚃.𝟸.𝟶 bot
-  
-  
-  *\`乂  I N F O  -  B O T\`*
+  before: `╭─〔 𝚅𝙸𝙳𝙰𝙱𝙾𝚃.𝟚.𝟘 - 𝙼𝙴𝙽𝚄 〕─⬣
+│  👋 Hola %name ${ucapan()}
+│  Soy tu asistente 🤖
+╰────────────────────⬣
 
-┌  ◦ *Cʀᴇᴀᴅᴏʀ:*  Panda
-│  ◦ *Mᴏᴅᴏ:* Público
-│  ◦ *Bᴀɪʟᴇʏs:* Multi Device
-│  ◦ *Tɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:* %muptime
-└  ◦ *Usᴜᴀʀɪᴏs:* %totalreg
+┌─⭓ *I N F O  -  B O T*
+│ 🐼 Creador: Panda
+│ 🌐 Modo: Público
+│ 🔁 Baileys: Multi Device
+│ ⏳ Activo: %muptime
+│ 👥 Usuarios: %totalreg
+└───────────────⬣
 
-  *\`乂  I N F O  -  U S U A R I O\`*
-  
-┌  ◦ *Cʟɪᴇɴᴛᴇ:* %name
-│  ◦ *Exᴘ:* %exp
-│  ◦ *Nɪᴠᴇʟ:* %level
-└  ◦ *Rᴀɴɢᴏ:* %role
-   
-*– L I S T A   D E   C O M A N D O S*\n
+┌─⭓ *I N F O  -  U S U A R I O*
+│ 🙋 Cliente: %name
+│ 💠 Exp: %exp
+│ 🎚 Nivel: %level
+│ 🏅 Rango: %role
+└───────────────⬣
 `.trimStart(),
     header: '┏━━━━━━ *%category* ━━━━━┓',
   body: '┣┅⟣ ❒ %cmd %isdiamond %isPremium',
