@@ -48,9 +48,9 @@ const defaultMenu = {
 │ 🏅 Rango: %role
 └───────────────⬣
 `.trimStart(),
-    header: '┏━━━━━━ *%category* ━━━━━┓',
-  body: '┣┅⟣ ❒ %cmd %isdiamond %isPremium',
-  footer: '┗━━━━━━━━━━━━━━━━━━━┛\n',
+    header: '┏━━━〔 *%category* 〕━━━┓',
+body:   '┃ ⤷ %cmd %isdiamond %isPremium',
+footer: '┗━━━━━━━━━━━━━━━━━━┛\n',
   after: `> ${dev}`,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
